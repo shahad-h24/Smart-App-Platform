@@ -6,6 +6,7 @@ from weer_api import haal_temperatuur_op
 
 def hoofdmenu():
     while True:
+
         print("\n===== SMART APP PLATFORM =====")
         print("1. Weerstation")
         print("2. Smart App Controller")

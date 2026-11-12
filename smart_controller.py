@@ -33,7 +33,7 @@ def auto_bereken(inputFile, outputFile):
             temperatuur_ingesteld = float(gegevens[2])
             temperatuur_buiten = float(gegevens[3])
             neerslag = float(gegevens[4])
-
+á
             verschil = temperatuur_ingesteld - temperatuur_buiten
 
             if verschil >= 20:

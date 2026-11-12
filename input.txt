@@ -1,4 +1,4 @@
-datum numPeople tempSetpoint tempOutside precip
+datum numPeople tempSetpoint tempOutside precipá
 2026-10-01 2 22 10 5
 2026-10-02 3 25 10 1
 2026-10-03 1 20 15 2

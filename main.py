@@ -21,7 +21,7 @@ def hoofdmenu():
             continue
 
         if keuze == 1:
-            weerstation()
+            weerstation()á
 
         elif keuze == 2:
             smart_app_controller()

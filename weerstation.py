@@ -9,7 +9,7 @@ def gevoelstemperatuur(temp_celcius, windsnelheid, luchtvochtigheid):
 
 def weerrapport(temp_celcius, windsnelheid, luchtvochtigheid):
     gevoel = gevoelstemperatuur(
-        temp_celcius, windsnelheid, luchtvochtigheid
+        temp_celcius, windsnelheid, luchtvochtigheidá
     )
 
     if gevoel < 0 and windsnelheid > 10:

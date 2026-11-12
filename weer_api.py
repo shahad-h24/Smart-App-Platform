@@ -19,7 +19,7 @@ def haal_temperatuur_op():
             )
 
         temperatuur = gegevens["current"]["temperature_2m"]
-
+á
         print(
             "Actuele temperatuur in Utrecht:",
             temperatuur,
